@@ -35,8 +35,6 @@ API config
 
 | Path | Purpose |
 |---|---|
-| `docs/Rapport_projet_motd.pdf` | Final project report |
-| `docs/presentation_motd.pptx` | Presentation deck |
 | `screenshots/` | Terminal and dashboard screenshots |
 | `code-snippets/motd-flow.sh` | Short illustrative Bash flow |
 
